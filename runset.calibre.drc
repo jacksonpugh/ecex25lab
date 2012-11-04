@@ -1,0 +1,10 @@
+*drcRulesFile: $PDK_DIR/ncsu_basekit/techfile/calibre/calibreDRC.rul
+*drcRunDir: /u/vbilagi/cadence/45npdk
+*drcLayoutPaths: inv.calibre.db
+*drcLayoutPrimary: inv
+*drcLayoutGetFromViewer: 1
+*drcResultsFile: inv.drc.results
+*drcSummaryFile: inv.drc.summary
+*drcPreviousResultsFile: inv.drc.results
+*cmnWarnLayoutOverwrite: 0
+*cmnSlaveHosts: {use {}} {hostName {}} {cpuCount {}} {a32a64 {}} {rsh {}} {maxMem {}} {workingDir {}} {layerDir {}} {mgcLibPath {}} {launchName {}}

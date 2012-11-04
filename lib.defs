@@ -1,0 +1,19 @@
+# OpenAccess File Created by Brian Rho at Wed Oct 17 20:22:12 2012
+# assisted by CdsLibEditor
+#    OpenAccess File Created by Vedanth Bilagi at Tue Apr 13 21:48:09 2010
+#    assisted by CdsLibEditor
+DEFINE analogLib $CDSHOME/tools/dfII/etc/cdslib/artist/analogLib
+ASSIGN analogLib libMode shared
+DEFINE US_8ths $CDSHOME/tools/dfII/etc/cdslib/sheets/US_8ths
+ASSIGN US_8ths libMode shared
+DEFINE basic $CDSHOME/tools/dfII/etc/cdslib/basic
+ASSIGN basic libMode shared
+DEFINE cdsDefTechLib $CDSHOME/tools/dfII/etc/cdsDefTechLib
+ASSIGN cdsDefTechLib libMode shared
+DEFINE freepdk45_cells /pkgs/cadence6/local/45nPDK/FreePDK45/osu_soc/lib/freepdk45_cells
+DEFINE NCSU_Analog_Parts /pkgs/cadence6/local/45nPDK/ncsu-cdk-1.6.0.beta/lib/NCSU_Analog_Parts
+DEFINE NCSU_Digital_Parts /pkgs/cadence6/local/45nPDK/ncsu-cdk-1.6.0.beta/lib/NCSU_Digital_Parts
+DEFINE NCSU_TechLib_FreePDK45 /pkgs/cadence6/local/45nPDK/FreePDK45/ncsu_basekit/lib/NCSU_TechLib_FreePDK45
+DEFINE NCSU_Devices_FreePDK45 /pkgs/cadence6/local/45nPDK/FreePDK45/ncsu_basekit/lib/NCSU_Devices_FreePDK45
+DEFINE ECE525 /u/brho/cadence610/ECE525
+ASSIGN ECE525 libMode shared

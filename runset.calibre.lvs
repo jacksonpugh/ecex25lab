@@ -1,0 +1,19 @@
+*lvsRulesFile: $PDK_DIR/ncsu_basekit/techfile/calibre/calibreLVS.rul
+*lvsRunDir: /u/vbilagi/cadence/45npdk
+*lvsLayoutPaths: inv.calibre.db
+*lvsLayoutPrimary: inv
+*lvsLayoutGetFromViewer: 1
+*lvsSourcePath: inv.src.net
+*lvsSourcePrimary: inv
+*lvsSourceGetFromViewer: 1
+*lvsReportFile: inv.lvs.report
+*lvsMaskDBFile: inv.maskdb
+*lvsSpiceFile: inv.sp
+*lvsAutoMatch: 1
+*lvsIgnorePorts: 1
+*lvsERCDatabase: inv.erc.results
+*lvsERCSummaryFile: inv.erc.summary
+*cmnWarnLayoutOverwrite: 0
+*cmnWarnSourceOverwrite: 0
+*cmnShowOptions: 1
+*cmnSlaveHosts: {use {}} {hostName {}} {cpuCount {}} {a32a64 {}} {rsh {}} {maxMem {}} {workingDir {}} {layerDir {}} {mgcLibPath {}} {launchName {}}
