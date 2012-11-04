@@ -1,17 +1,17 @@
 \o Program:		@(#)$CDS: libManagerOA.exe version 5.0.2 10/09/2006 17:38 (cat61sun) $
 \o Sub version:		sub-version 06.01-s016
-\o Arguments:		-mpssession icfb25261 -mpshost nemo.ece.pdx.edu 
+\o Arguments:		-mpssession icfb8463 -mpshost nemo.ece.pdx.edu 
 \o Working Directory:	nemo.ece.pdx.edu:/u/brho/cadence610
-\a nrSetWindowVisibility(cdsLibManager "show")
-\o MPS service: map window
-\a nrSetCurrentWindow(cdsLibManager)
-\o Library Manager customization server connected.
 \o Qt version: 		4.1.4
 \o Log file is "/u/brho/cadence610/libManager.log".
 \o Opening libManager window.
+\a nrSetCurrentWindow(cdsLibManager)
+\o MPS service: map window
+\o Library Manager customization server connected.
 \o Loading customization file "/pkgs/cadence6/local//cdssetup/cdsLibMgr.il"
 \o Loading NCSU Library Manager customizations...done.
-\a nrResizeWindow(cdsLibManager list(616 370 600 396))
+\a nrResizeWindow(cdsLibManager list(24 112 1680 988))
+\a nrSetCurrentWindow(cdsLibManager)
 \a nrSetWindowVisibility(cdsLibManager "hide")
 \o libManager is exiting.
 \a exit(0)
