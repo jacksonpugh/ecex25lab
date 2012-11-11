@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      khizri
+HostName                       nemo.ece.pdx.edu
+ProcessIdentifier              10406
+ProcessCreationTime_UTC        0
+ProcessCreationTime_Readable   Wed Dec 31 16:00:00 1969 PST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /u/khizri/ecex25lab/ECE525/group12_cmos_fox1/schematic/sch.oa.cdslck
+TimeEditLocked                 Sun Nov 11 12:03:22 2012 PST
