@@ -1,0 +1,13 @@
+(envOpts userCmdLineOption) ""
+(envOpts printComments) nil
+(envOpts restart) ""
+(envOpts savestate) ""
+(envOpts switchViewList) ("spectre" "cmos_sch" "cmos.sch" "schematic" "veriloga")
+(envOpts analysisOrder) nil
+(envOpts autoDisplay) t
+(envOpts enableArclength) nil
+(envOpts licOrder) ""
+(envOpts paramRangeCheckFile) ""
+(envOpts spp) ""
+(envOpts firstRun) nil
+(envOpts stopViewList) ("spectre")

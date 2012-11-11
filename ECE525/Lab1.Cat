@@ -1,9 +1,9 @@
 TDMCHECKPOINT="1.0"
-ECE525/group12_bsim_fox4 type="cell"
+<<<<<<< HEAD
+=======
+>>>>>>> 5cd034924eb45a7ab58163c9bd50ffecef6a092b
 ECE525/group12_cmos type="cell"
-ECE525/group12_cmos_fox1 type="cell"
 ECE525/group12_cmos_fox4 type="cell"
-ECE525/group12_cmos_fox8 type="cell"
 ECE525/group12_cmos_tb type="cell"
 ECE525/group12_cmos_wide type="cell"
 ECE525/group12_cmos_wide_fox4 type="cell"

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JavaBean CLASS="COM.cadence.awd.graph.GraphFrame">
+  <Properties>
+    <Property NAME="graph">
+      <JavaBean CLASS="COM.cadence.awd.graph.Rect2DGraph">
+        <Properties>
+          <Property NAME="backgroundName">black</Property>
+          <Property NAME="cursorOn">False</Property>
+          <Property NAME="dataSnapOn">False</Property>
+          <Property NAME="dependentAxis">
+            <JavaBean CLASS="COM.cadence.awd.graph.DepAxis">
+              <Properties>
+                <Property NAME="baseUnit">V</Property>
+                <Property NAME="defaultTitle">V</Property>
+                <Property NAME="forceOrigin">False</Property>
+                <Property NAME="foregroundName">black</Property>
+                <Property NAME="logScale">False</Property>
+                <Property NAME="majGridsOn">True</Property>
+                <Property NAME="minGridsOn">True</Property>
+                <Property NAME="minorForegroundName">verydarkgray</Property>
+                <Property NAME="nameId">0</Property>
+                <Property NAME="scaleMode">1</Property>
+                <Property NAME="sigDigits">3</Property>
+                <Property NAME="sigDigitsDefault">True</Property>
+                <Property NAME="tempStripFlag">False</Property>
+                <Property NAME="title">V</Property>
+                <Property NAME="useDefaultTitle">True</Property>
+                <Property NAME="userMax">1.2500001250000001</Property>
+                <Property NAME="userMin">-0.250000025</Property>
+              </Properties>
+            </JavaBean>
+          </Property>
+          <Property NAME="displayDate">True</Property>
+          <Property NAME="displayType">5</Property>
+          <Property NAME="fontName">Dialog</Property>
+          <Property NAME="fontSize">12</Property>
+          <Property NAME="fontStyle">0</Property>
+          <Property NAME="forceCommonLimits">False</Property>
+          <Property NAME="forceSquareAspect">False</Property>
+          <Property NAME="foregroundName">black</Property>
+          <Property NAME="freeze">False</Property>
+          <Property NAME="independentAxis">
+            <JavaBean CLASS="COM.cadence.awd.graph.IndepAxis">
+              <Properties>
+                <Property NAME="baseUnit">s</Property>
+                <Property NAME="defaultTitle">time</Property>
+                <Property NAME="forceOrigin">False</Property>
+                <Property NAME="foregroundName">black</Property>
+                <Property NAME="logScale">False</Property>
+                <Property NAME="majGridsOn">True</Property>
+                <Property NAME="minGridsOn">True</Property>
+                <Property NAME="minorForegroundName">verydarkgray</Property>
+                <Property NAME="nameId">0</Property>
+                <Property NAME="scaleMode">1</Property>
+                <Property NAME="sigDigits">3</Property>
+                <Property NAME="sigDigitsDefault">True</Property>
+                <Property NAME="title">time</Property>
+                <Property NAME="useDefaultTitle">True</Property>
+                <Property NAME="userMax">2.0000002000000004E-8</Property>
+                <Property NAME="userMin">0.0</Property>
+              </Properties>
+            </JavaBean>
+          </Property>
+          <Property NAME="majorGridsForegroundName">0x6e6e6e</Property>
+          <Property NAME="majorGridsOn">True</Property>
+          <Property NAME="minorGridsForegroundName">verydarkgray</Property>
+          <Property NAME="minorGridsOn">True</Property>
+          <Property NAME="nameId">-1</Property>
+          <Property NAME="peakSnapOn">False</Property>
+          <Property NAME="runVarName">time</Property>
+          <Property NAME="stripChartOn">False</Property>
+          <Property NAME="subTitle"></Property>
+          <Property NAME="title">Transient Response</Property>
+          <Property NAME="trace">
+            <JavaBean CLASS="COM.cadence.awd.graph.RectTrace">
+              <Properties>
+                <Property NAME="dataSetName">tran-tran</Property>
+                <Property NAME="defaultTitle">/net3</Property>
+                <Property NAME="defaultTitleOn">False</Property>
+                <Property NAME="depAxisId">0</Property>
+                <Property NAME="depUnit">V</Property>
+                <Property NAME="directoryName">/u/khizri/Desktop/cadence610/simulation/group12_cmos_fox1/spectre/schematic/psf</Property>
+                <Property NAME="foregroundName">0xff8000</Property>
+                <Property NAME="indepAxisId">0</Property>
+                <Property NAME="indepUnit">s</Property>
+                <Property NAME="name">/net3</Property>
+                <Property NAME="nameId">0</Property>
+                <Property NAME="stripIndex">0</Property>
+                <Property NAME="symbolCount">20</Property>
+                <Property NAME="symbolStyle">9</Property>
+                <Property NAME="symbolsOnFlag">False</Property>
+                <Property NAME="title">/net3</Property>
+                <Property NAME="traceStyle">37</Property>
+                <Property NAME="traceToken">
+                  <JavaBean CLASS="COM.cadence.awd.graph.TraceToken">
+                    <Properties>
+                      <Property NAME="compound">False</Property>
+                      <Property NAME="convertedName">net3</Property>
+                      <Property NAME="dataDirectory">/u/khizri/Desktop/cadence610/simulation/group12_cmos_fox1/spectre/schematic/psf</Property>
+                      <Property NAME="dataSet">tran-tran</Property>
+                      <Property NAME="index">0</Property>
+                      <Property NAME="name">net3</Property>
+                      <Property NAME="type">SIGNAL</Property>
+                    </Properties>
+                  </JavaBean>
+                </Property>
+                <Property NAME="traceType">31</Property>
+              </Properties>
+            </JavaBean>
+          </Property>
+          <Property NAME="trace">
+            <JavaBean CLASS="COM.cadence.awd.graph.RectTrace">
+              <Properties>
+                <Property NAME="dataSetName">tran-tran</Property>
+                <Property NAME="defaultTitle">/Vin</Property>
+                <Property NAME="defaultTitleOn">False</Property>
+                <Property NAME="depAxisId">0</Property>
+                <Property NAME="depUnit">V</Property>
+                <Property NAME="directoryName">/u/khizri/Desktop/cadence610/simulation/group12_cmos_fox1/spectre/schematic/psf</Property>
+                <Property NAME="foregroundName">red</Property>
+                <Property NAME="indepAxisId">0</Property>
+                <Property NAME="indepUnit">s</Property>
+                <Property NAME="name">/Vin</Property>
+                <Property NAME="nameId">1</Property>
+                <Property NAME="stripIndex">1</Property>
+                <Property NAME="symbolCount">20</Property>
+                <Property NAME="symbolStyle">14</Property>
+                <Property NAME="symbolsOnFlag">False</Property>
+                <Property NAME="title">/Vin</Property>
+                <Property NAME="traceStyle">37</Property>
+                <Property NAME="traceToken">
+                  <JavaBean CLASS="COM.cadence.awd.graph.TraceToken">
+                    <Properties>
+                      <Property NAME="compound">False</Property>
+                      <Property NAME="convertedName">Vin</Property>
+                      <Property NAME="dataDirectory">/u/khizri/Desktop/cadence610/simulation/group12_cmos_fox1/spectre/schematic/psf</Property>
+                      <Property NAME="dataSet">tran-tran</Property>
+                      <Property NAME="index">0</Property>
+                      <Property NAME="name">Vin</Property>
+                      <Property NAME="type">SIGNAL</Property>
+                    </Properties>
+                  </JavaBean>
+                </Property>
+                <Property NAME="traceType">31</Property>
+              </Properties>
+            </JavaBean>
+          </Property>
+          <Property NAME="useDefaultSubTitle">True</Property>
+          <Property NAME="useDefaultTitle">False</Property>
+          <Property NAME="visible">True</Property>
+          <Property NAME="visibleDigitalRows">4</Property>
+          <Property NAME="visibleStripChartRows">6</Property>
+        </Properties>
+      </JavaBean>
+    </Property>
+    <Property NAME="height">700</Property>
+    <Property NAME="labelText"></Property>
+    <Property NAME="stripChartState">False</Property>
+    <Property NAME="width">900</Property>
+    <Property NAME="xLocation">100</Property>
+    <Property NAME="yLocation">41</Property>
+  </Properties>
+</JavaBean>
+
