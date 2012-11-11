@@ -1,6 +1,5 @@
 TDMCHECKPOINT="1.0"
 ECE525/group12_cmos type="cell"
-ECE525/group12_cmos_fox4 type="cell"
 ECE525/group12_cmos_tb type="cell"
 ECE525/group12_cmos_wide type="cell"
 ECE525/group12_cmos_wide_fox4 type="cell"
