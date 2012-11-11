@@ -1,0 +1,5 @@
+TDMCHECKPOINT="1.0"
+ECE525/BSIM_Inverter type="cell"
+ECE525/OAI211 type="cell"
+ECE525/OAI211_tb type="cell"
+keepEmptyCategory type="unknown"
