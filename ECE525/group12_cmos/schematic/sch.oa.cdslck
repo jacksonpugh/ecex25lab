@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      brho
 HostName                       nemo.ece.pdx.edu
-ProcessIdentifier              19450
+ProcessIdentifier              6281
 ProcessCreationTime_UTC        0
 ProcessCreationTime_Readable   Wed Dec 31 16:00:00 1969 PST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /u/brho/cadence610/ECE525/group12_cmos_fox1/schematic/sch.oa.cdslck
-TimeEditLocked                 Sun Nov 11 15:18:41 2012 PST
+FilePathUsedToEditLock         /u/brho/cadence610/ECE525/group12_cmos/schematic/sch.oa.cdslck.dirlck
+TimeEditLocked                 Sun Nov 11 18:13:08 2012 PST
