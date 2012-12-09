@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Wed Dec 31 16:00:00 1969 PST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /u/brho/cadence610/ECE525/group12_bsim_fox4/schematic/sch.oa.cdslck.dirlck
-TimeEditLocked                 Sat Dec 08 17:03:20 2012 PST
+FilePathUsedToEditLock         /u/brho/cadence610/ECE525/group12_bsim_fox4/layout/layout.oa.cdslck
+TimeEditLocked                 Sat Dec 08 19:53:46 2012 PST

@@ -13,4 +13,4 @@ AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
 FilePathUsedToEditLock         /u/brho/cadence610/ECE525/BSIM_Inverter/layout/layout.oa.cdslck
-TimeEditLocked                 Sat Dec 08 15:06:19 2012 PST
+TimeEditLocked                 Sat Dec 08 20:16:51 2012 PST
