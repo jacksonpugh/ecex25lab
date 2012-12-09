@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      brho
+HostName                       nemo.ece.pdx.edu
+ProcessIdentifier              23949
+ProcessCreationTime_UTC        0
+ProcessCreationTime_Readable   Wed Dec 31 16:00:00 1969 PST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /u/brho/cadence610/ECE525/OAI211/layout/layout.oa.cdslck.dirlck
+TimeEditLocked                 Sun Dec 09 10:52:03 2012 PST
